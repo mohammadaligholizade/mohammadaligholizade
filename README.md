@@ -21,9 +21,8 @@
 </picture>
 
 
-<picture>
-  <img src="https://holopin.me/hausemaster" alt="Holopin" width=100% />
-</picture>
+
+
 
 
 <!---
